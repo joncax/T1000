@@ -1,4 +1,5 @@
 # Ficheiros e pastas a ignorar
 venv/
 __pycache__/
+Aulas
 *.log
